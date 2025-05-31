@@ -235,4 +235,4 @@ jobs:
         retention-days: 7
 ```
 
-[![Coverage Status](https://coveralls.io/repos/github/tyrtir/laba05/badge.svg?branch=master)](https://coveralls.io/github/tyrtir/laba05?branch=master)
+[![Coverage Status](https://coveralls.io/repos/github/alextisch/lab5/badge.svg?branch=main)](https://coveralls.io/github/alextisch/lab5?branch=main)
