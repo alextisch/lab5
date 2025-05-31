@@ -236,3 +236,4 @@ jobs:
 ```
 
 [![Coverage Status](https://coveralls.io/repos/github/alextisch/lab5/badge.svg?branch=main)](https://coveralls.io/github/alextisch/lab5?branch=main)
+.
